@@ -1,4 +1,5 @@
 # Content-Orchestrator
+
 An agentic content pipeline that researches, drafts, reviews, and schedules content across multiple brands.
 
 ## Why I built it
@@ -51,3 +52,5 @@ This architecture keeps every stage aligned while reducing prompt drift between 
 **Production use.**
 
 Designed as a human-in-the-loop system where every published post is reviewed before it goes live.
+
+This repository serves as a public overview of the project. The implementation and source code remain private.
